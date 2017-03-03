@@ -1,4 +1,4 @@
-# Android App for Susi
+# Android App for Susi Shitanshu Verma
 
 [![CircleCI](https://circleci.com/gh/fossasia/susi_android.svg?style=svg)](https://circleci.com/gh/fossasia/susi_android)
 [![Gitter](https://badges.gitter.im/fossasia/susi_android.svg)](https://gitter.im/fossasia/susi_android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
